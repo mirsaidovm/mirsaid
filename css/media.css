@@ -1,0 +1,192 @@
+@media (max-width:320px){.aboutme,.skills,.works-section{display:flex;flex-direction:column}body{overflow-x:hidden;background:#000}body::before,main::after{display:none}.skills{background:#fff;padding-top:20px}.aboutme,.aboutme-text p,.skills__text,.works__text{text-align:center}.skills__text p{color:#000}.container--1{width:100%}.container--2,.works-section img{display:none}.about-section{display:flex;flex-direction:column;justify-content:center}.p-span{color:#fff}.myworksp{margin-left:0}}@media (max-width:500px){.aboutme,.skills,.works-section{display:flex;flex-direction:column}body{overflow-x:hidden;background:#000}body::before,main::after{display:none}.skills{background:#fff;padding-top:20px}.aboutme,.aboutme-text p,.skills__text,.works__text{text-align:center}.skills__text p{color:#000}.container--1{width:100%}.container--2,.works-section img{display:none}.about-section{display:flex;flex-direction:column;justify-content:center}.p-span{color:#fff}.myworksp{padding:0}}@media (max-width:1000px){.aboutme,.skills,.works-section{display:flex;flex-direction:column}body{overflow-x:hidden;background:#000}body::before,main::after{display:none}.skills{background:#fff;padding-top:20px}.aboutme,.aboutme-text p,.skills__text,.works__text{text-align:center}.skills__text p{color:#000}.container--1{width:100%}.container--2,.works-section img{display:none}.about-section{display:flex;flex-direction:column;justify-content:center}.p-span{color:#fff}.myworksp{padding:0}}
+
+@media (max-width: 320px) {
+    .aboutme,
+    .skills,
+    .works-section {
+        display: flex;
+        flex-direction: column;
+    }
+    body {
+        overflow-x: hidden;
+        background: #000;
+    }
+    body::before,
+    main::after {
+        display: none;
+    }
+    .skills {
+        background: #fff;
+        padding-top: 20px;
+    }
+    .aboutme,
+    .aboutme-text p,
+    .skills__text,
+    .works__text {
+        text-align: center;
+    }
+    .skills__text p {
+        color: #000;
+    }
+    .container--1 {
+        width: 100%;
+    }
+    .container--2,
+    .works-section img {
+        display: none;
+    }
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .p-span {
+        color: #fff;
+    }
+    .myworksp {
+        margin-left: 0;
+    }
+}
+@media (max-width: 500px) {
+    .aboutme,
+    .skills,
+    .works-section {
+        display: flex;
+        flex-direction: column;
+    }
+    body {
+        overflow-x: hidden;
+        background: #000;
+    }
+    body::before,
+    main::after {
+        display: none;
+    }
+    .skills {
+        background: #fff;
+        padding-top: 20px;
+    }
+    .aboutme,
+    .aboutme-text p,
+    .skills__text,
+    .works__text {
+        text-align: center;
+    }
+    .skills__text p {
+        color: #000;
+    }
+    .container--1 {
+        width: 100%;
+    }
+    .container--2,
+    .works-section img {
+        display: none;
+    }
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .p-span {
+        color: #fff;
+    }
+    .myworksp {
+        padding: 0;
+    }
+}
+@media (max-width: 1000px) {
+    .aboutme,
+    .skills,
+    .works-section {
+        display: flex;
+        flex-direction: column;
+    }
+    body {
+        overflow-x: hidden;
+        background: #000;
+    }
+    body::before,
+    main::after {
+        display: none;
+    }
+    .skills {
+        background: #fff;
+        padding-top: 20px;
+    }
+    .aboutme,
+    .aboutme-text p,
+    .skills__text,
+    .works__text {
+        text-align: center;
+    }
+    .skills__text p {
+        color: #000;
+    }
+    .container--1 {
+        width: 100%;
+    }
+    .container--2,
+    .works-section img {
+        display: none;
+    }
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .p-span {
+        color: #fff;
+    }
+    .myworksp {
+        padding: 0;
+    }
+    
+}
+@media (max-width: 1500px) {
+    .aboutme,
+    .skills,
+    .works-section {
+        display: flex;
+        flex-direction: column;
+    }
+    body {
+        overflow-x: hidden;
+        background: #000;
+    }
+    body::before,
+    main::after {
+        display: none;
+    }
+    .skills {
+        background: #fff;
+        padding-top: 20px;
+    }
+    .aboutme,
+    .aboutme-text p,
+    .skills__text,
+    .works__text {
+        text-align: center;
+    }
+    .skills__text p {
+        color: #000;
+    }
+    .container--1 {
+        width: 100%;
+    }
+    .container--2,
+    .works-section img {
+        display: none;
+    }
+    .about-section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .p-span {
+        color: #fff;
+    }
+    .myworksp {
+        padding: 0;
+    }
+
+}
